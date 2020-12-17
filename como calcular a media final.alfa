@@ -1,0 +1,6 @@
+N1, N2, PI = input("N1: "), input("N2: "), input("PI: ")
+x = int(N1) + int(N2)
+y = 2 * int(x)
+z = int(y) + int(PI)
+a = int(z) / 5
+print(a)
