@@ -1,0 +1,5 @@
+N1, N2 = input("N1: "), input("N2: ") 
+x = int(N1) + int(N2)
+y = int(x) * 2
+z = 33.75 - int(y)
+print(z)
